@@ -1,0 +1,29 @@
+Key Themes for Exploration
+AI Foundations: How is Agentic AI different from Generative AI in practice?
+Agentic AI is an autonomous, purpose driven, uses external tools via API / MCP. It may be for single task or to execute an workflow with chain of agents. where generative models serve as the large brain with generating capability. Generative AI is acting as an internal "brain" for an agentic workflow
+Python’s Role: Why is Python considered the “default” language for AI?
+- Community support with massive libraries
+- Simple - Human readable language
+- Glue Architecture - Python connects, orchestrates, and bind together disparate software components, databases, and C/C++ libraries. Ex: NumPy. Interesting topic learned during assignment :). 
+Learning & Debugging: How does ChatGPT support learners and developers when coding?
+It support developers to understand the code, provides clear unit testing, allows to test with various data.
+Prompting & Iteration: What strategies improve the quality of ChatGPT’s outputs?
+Specific, role, example, context.
+Practical Use Cases: What simple apps or tasks can participants automate with ChatGPT?
+Writing, planning, coding, etc
+
+Discussion Questions
+What was your first hands-on experience with AI tools like ChatGPT?
+I used to improve productivity and provide smart solutions.
+Why do you think Python dominates the AI ecosystem over other languages?
+Though Python is simple and human readable, I feel python requires more compute to run. Languages like rust may adapt AI agents pro coding soon.
+How does using Jupyter/Colab change your workflow compared to text editors?
+It is easy to verify / debug the outputs and easy to share with team.
+Share an example where ChatGPT helped you debug or explain an error. Did you validate its solution?
+yes.
+What risks do you see in blindly trusting ChatGPT’s code suggestions?
+It may reduce our logical and programmetically thinking capacity.
+When refining prompts (e.g., in EMI Calculator or To-Do App), what specific changes made the biggest impact?
+providing more context and scope enabled the prompt refining process better.
+What ethical or professional considerations come into play when using ChatGPT in coding?
+I personally prefer not to expose the PII and security keys in the code.
